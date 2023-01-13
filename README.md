@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm John Vargas</h1>
-<h3 align="center">Creative, detail-oriented, software engineer from NY</h3>
+<h3 align="center">Creative, detail-oriented, Software Engineer from NY</h3>
 
 - 👨‍💻 All of my projects are available at [https://johnvargas.com](https://johnvargas.com)
 
