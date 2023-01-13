@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my projects are available at [https://johnvargas.com](https://johnvargas.com)
 
-- 📫 How to reach me **jvarg@jvarg.com**
+- 📫 How to reach me **me@jvarg.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
